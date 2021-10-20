@@ -10,8 +10,7 @@ fun main(){
     numberList.add(5600000.0)
 
     //value to hold the total of the numbers
-    var numberTotal:Double = 0.0
-
+    var numberTotal = 0.0
     for(i in numberList)
     {
         numberTotal += i
